@@ -1,1 +1,1 @@
-# sitecore-dalle-multiple-images
+# sitecore-dalle2
